@@ -13,7 +13,7 @@ name                     : &name "Jiwoo Kim"
 description              : &description "personal description"
 url                      : https://JiwooKim-CI.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiwooKim-CI.github.io"
+repository               : "JiwooKim-CI/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
