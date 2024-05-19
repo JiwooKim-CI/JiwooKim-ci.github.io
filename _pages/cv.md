@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Education, Ewha Womans University University, 2020
+* M.S. in Educational Measurement and Evaluation, Seoul National University, 2023
+* Ph.D in Psychology / Minor in Applied Statistics, Cornell University, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2024: Research Assistant
+  * Cornell University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Felix Thoemmes
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +29,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative method
+* Statistical language
+  * R
+  * SPSS
 
 Publications
 ======
@@ -56,4 +54,7 @@ Teaching
   
 Service and leadership
 ======
+* Research mentor for impoverished students (2023)
+* Korean tutoring for North Korean defectors (2018)
+  
 * Currently signed in to 43 different slack teams
