@@ -56,5 +56,3 @@ Service and leadership
 ======
 * Research mentor for impoverished students (2023)
 * Korean tutoring for North Korean defectors (2018)
-  
-* Currently signed in to 43 different slack teams
