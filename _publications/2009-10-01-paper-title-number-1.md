@@ -1,7 +1,7 @@
 ---
 title: "A literature review and meta-analysis of causal mediation analysis in social psychology"
 collection: publications
-permalink: [/publication/in progress](_/publications/2009-10-01-paper-title-number-1.md)
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about trend and the best practice of causal mediation in the field of social psychology. 
 '
 venue: 'In progress paper (preregistered on OSF)'
