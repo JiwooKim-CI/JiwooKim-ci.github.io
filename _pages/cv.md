@@ -17,15 +17,19 @@ Education
 
 Work experience
 ======
-* Fall 2024: Research Assistant
+* Fall 2024 - Spring 2025: Research Assistant
   * Cornell University
-  * Duties included: Tagging issues
   * Supervisor: Professor Felix Thoemmes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022: Researcher
+  * The Korea Chamber of Commerce and Industry
+  * Duties included: Item development and validation
+    
+* Fall 2021: Research Assistant
+  * Seoul National University
+  * Duties included: Item development and validation, Analyzed current academic resilience competency of undergraduate school students
+  * Supervisor: Professor Sun-Geun Baek
+ 
   
 Skills
 ======
