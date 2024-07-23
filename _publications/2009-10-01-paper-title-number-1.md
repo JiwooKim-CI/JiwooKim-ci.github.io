@@ -5,7 +5,7 @@ permalink: [/publication/in progress](https://doi.org/10.17605/OSF.IO/DTK4H)
 excerpt: 'This paper is about trend and the best practice of causal mediation in the field of social psychology. 
 '
 venue: 'In progress paper (preregistered on OSF)'
-date: In progress
+date: 2024-06-27
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.17605/OSF.IO/DTK4H)'
 citation: 'Kim, J,, Thommes, F., & Ong, A. (2024).'
 ---
