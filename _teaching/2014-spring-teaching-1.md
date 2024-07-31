@@ -8,7 +8,7 @@ date: 2017-03-01 ~ 2019-12-31
 location: "Seoul, Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught impoverished middel school students math math for three years. Also, for their future career, I planned an individualized career development program.
 
 Heading 1
 ======
