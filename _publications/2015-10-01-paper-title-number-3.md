@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Development and validation of the academic resilience scale for undergraduate students using scenario method"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about developing and validating an academic resilience scale.'
