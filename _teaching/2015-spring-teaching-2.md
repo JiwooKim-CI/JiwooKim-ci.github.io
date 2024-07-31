@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Harvard Summer Student Research Program"
 collection: teaching
-type: "Workshop"
+type: "Mentoring"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Harvard University"
+date: 2024-06-01
+location: "Boston, U.S."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I mentored an impoverished hish school student to conduct a study using instrumental variable estimation. To do that, I provided lectures for causal inference, focusing on causal graphical model, and papers related to instrumental variable. Also, I guided the mentee to find and conduct her own research.
 
 Heading 1
 ======
