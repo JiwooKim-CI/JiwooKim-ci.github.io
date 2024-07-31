@@ -13,7 +13,7 @@ Hello, I’m Jiwoo Kim, a second-year Ph.D. student in Human Development at Corn
 
 My interest in causal inference stems from observed disparities between research intentions and findings. Many researchers avoid discussing causal relationships, even when their questions assume causality, prompting me to believe that adopting a causal perspective is imperative to answer their research question appropriately.
 
-Therefore, I am delving deeper into the study of measuring causality in the social science field by conducting multiple research projects. Specifically, I am working on a paper about measuring inequality using causal restrictions of instrumental variable, and I am also writing a paper about the current state or flaws of conducting causal mediation analysis in the field of social psychology. 
+Therefore, I am delving deeper into the study of measuring causality in the social science field by conducting multiple research projects. Specifically, I am working on a paper about measuring inequality using causal restrictions of instrumental variable, and I am also writing a paper about the current state or flaws of conducting causal mediation analysis in the field of social psychology. In addition, I am conducting a study about inspecting causal assumptions for two-wave longitudinal mediation using simulation.
 
 Research Interest
 ======
