@@ -58,5 +58,5 @@ Teaching
   
 Service and leadership
 ======
-* Research mentor for impoverished students (2023)
 * Korean tutoring for North Korean defectors (2018)
+* Career mentor for Children of Traffic Accident Victims (2016)
