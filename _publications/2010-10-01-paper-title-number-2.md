@@ -1,5 +1,5 @@
 ---
-title: "Credible Evidence of Gender Discrimination Using Instrumental Inequality"
+title: "Credible evidence of sex discrimination using instrumental inequality"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper provides new statistical evidence of gender discrimination using instrumental inequality.'
