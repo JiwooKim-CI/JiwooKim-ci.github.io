@@ -7,7 +7,7 @@ excerpt: 'This paper is about trend and the best practice of causal mediation in
 venue: 'In progress paper (preregistered on OSF)'
 date: 2024-06-27 (preregistered)
 paperurl: '[https://doi.org/10.17605/OSF.IO/DTK4H]'
-citation: 'Kim, J,, Thommes, F., & Ong, A. (2024).'
+citation: 'Kim, J., Thommes, F., & Ong, A. (2024).'
 ---
 This paper is about trend and the best practice of causal mediation in the field of social psychology. 
 
