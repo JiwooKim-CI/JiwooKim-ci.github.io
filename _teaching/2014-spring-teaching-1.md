@@ -2,7 +2,7 @@
 title: "Afterschool math teacher"
 collection: teaching
 type: "Middle school studet course"
-permalink: https://www.samsung.com/global/sustainability/popup/popup_doc/AYUrztWKEvIAIx_C/
+permalink: /teaching/2014-spring-teaching-1.md
 venue: "Samsung dream class"
 date: 2017-03-01 ~ 2019-12-31
 location: "Seoul, Korea"
