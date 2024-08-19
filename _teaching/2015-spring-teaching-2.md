@@ -2,7 +2,6 @@
 title: "Harvard Summer Student Research Program"
 collection: teaching
 type: "Mentoring"
-permalink: /teaching/2015-spring-teaching-2.md
 venue: "Harvard University"
 date: 2024-06-01
 location: "Boston, U.S."
