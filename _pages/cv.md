@@ -15,7 +15,7 @@ redirect_from:
 </head>
 <body>
     <h1>CV file</h1>
-    <embed src="Academic_CV_JK.pdf" type="application/pdf" width="100%" height="600px" />
+    <embed src="/files/Academic_CV_JK.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>
 
