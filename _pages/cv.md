@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-"ACADEMIC_CV_JK.pdf"
+"Academic_CV_JK.pdf"
 {% include base_path %}
 
 Education
