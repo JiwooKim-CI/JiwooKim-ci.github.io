@@ -10,4 +10,5 @@ location: "Seoul, Korea"
 
 I taught impoverished middle school students math math for three years. 
 Also, for their future career, I planned an individualized career development program.
+[Link](https://www.samsung.com/global/sustainability/popup/popup_doc/AYUrztWKEvIAIx_C/)
 
