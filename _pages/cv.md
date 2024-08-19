@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
