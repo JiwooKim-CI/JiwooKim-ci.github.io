@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jiwoo-Kim-23"
+  researchgate     :  https://www.researchgate.net/profile/Jiwoo-Kim-23
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JiwooKim-CI.github.io"
+  github           : JiwooKim-CI.github.io
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0005-5731-4259"
+  orcid            : https://orcid.org/0009-0005-5731-4259
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
