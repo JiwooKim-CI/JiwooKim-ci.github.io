@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 "ACADEMIC_CV_JK.pdf"
+{% include base_path %}
+
 Education
 ======
 * B.S. in Education, Ewha Womans University University, 2020
