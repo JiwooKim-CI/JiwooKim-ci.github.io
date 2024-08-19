@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper provides new statistical evidence of gender discrimination using instrumental inequality.'
 date: 2024-12-31(In progress)
 venue: 'In progress paper'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://www.postersessiononline.eu/173580348_eu/congresos/SCI2024/aula/-P_43_SCI2024.pdf'
 citation: 'Kim,J., & Kim, Y. (2024).'
 ---
 This paper provides new statistical evidence of gender discrimination using instrumental inequality.
