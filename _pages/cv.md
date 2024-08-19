@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+"ACADEMIC_CV_JK.pdf"
 Education
 ======
 * B.S. in Education, Ewha Womans University University, 2020
