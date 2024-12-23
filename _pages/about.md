@@ -22,6 +22,7 @@ Research Interest
 * Causal mediation model
 * Longitudinal data
 * Inequality
+* Missing data
 * Causal graphical model
 * Potential outcome
 
