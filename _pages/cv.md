@@ -13,7 +13,7 @@ redirect_from:
     <title>PDF Embed Example</title>
 </head>
 <body>
-    <h1>CV file</h1>
+    <h1>PDF file</h1>
     <embed src="/files/Academic_CV_JK.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>
