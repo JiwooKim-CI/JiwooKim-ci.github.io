@@ -1,6 +1,5 @@
 ---
 title: "Development and Validation of the Pre-service Teacher Competency Scale in an Online Learning Environment using the Scenario Method"
-"
 collection: talks
 type: "Paper presentation"
 permalink: /talks/AERA
