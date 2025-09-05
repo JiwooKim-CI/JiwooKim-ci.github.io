@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About me
-Hello, I’m Jiwoo Kim, a second-year Ph.D. student in Psychology at Cornell University, working with Professor Felix Thoemmes. I focus on quantitative research methods, especially causal inference in the social science field. For causal inference research, I use both the potential outcome approach and graphical approach. 
+Hello, I’m Jiwoo Kim, a Ph.D. candidate in Psychology at Cornell University, working with Professor Felix Thoemmes. I focus on quantitative research methods, especially causal inference in the social science field. For causal inference research, I use both the potential outcome approach and graphical approach. 
 
 My interest in causal inference stems from observed disparities between research intentions and findings. Many researchers avoid discussing causal relationships, even when their questions assume causality, prompting me to believe that adopting a causal perspective is imperative to answer their research question appropriately.
 
