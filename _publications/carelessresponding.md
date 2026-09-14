@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/carelessresponding
 excerpt: 'This paper distinguishes data generation, detection, and handling in careless responding and uses a causal framework to define careless-response generation mechanisms.'
 status: 'Under Review'
-paperurl: '[https://doi.org/10.17605/OSF.IO/DTK4H](https://doi.org/10.5281/zenodo.22738398)'
+paperurl: 'https://doi.org/10.17605/OSF.IO/DTK4H'
 citation: 'Kim, J.& Thommes, F. (2026).'
 order: 2
 ---
