@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about trend and the best practice of causal mediation in the field of social psychology. 
 '
 venue: 'In press (preregistered on OSF. Collabra: Psychology)'
-date: In press
+status: "In press"
 paperurl: 'https://doi.org/10.17605/OSF.IO/DTK4H'
 citation: 'Kim, J.& Thommes, F. (2026).'
 ---
