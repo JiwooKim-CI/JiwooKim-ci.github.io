@@ -6,7 +6,7 @@ excerpt: 'This paper distinguishes data generation, detection, and handling in c
 status: 'Under Review'
 paperurl: '[https://doi.org/10.17605/OSF.IO/DTK4H](https://doi.org/10.5281/zenodo.22738398)'
 citation: 'Kim, J.& Thommes, F. (2026).'
-order: 2
+order: 6
 ---
 Careless responding has long been recognized as a threat to data quality, and numerous
 methods have been developed to detect and remove potentially careless responses.
