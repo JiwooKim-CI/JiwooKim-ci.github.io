@@ -3,7 +3,7 @@ title: "Credible evidence of sex discrimination using instrumental inequality"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper provides new statistical evidence of gender discrimination using instrumental inequality.'
-date: (Under review)
+status: "Under review"
 venue: 'Under review paper'
 paperurl: 'https://www.postersessiononline.eu/173580348_eu/congresos/SCI2024/aula/-P_43_SCI2024.pdf'
 citation: 'Kim,J., & Kim, Y. (2026).'
