@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/bob
 excerpt: 'In this study, we aim to develop a new scale, Augmented Triangular Theory of the Expression of Love (ATTEL), and conduct an LPA analysis to check the different types of latent profiles using the scale. 
 '
-venue: 'In progress'
-date: 2025-07-25 (In progress paper)
+status: "Under review"
 paperurl: ''
 citation: 'Soleimani, A, D., Kim, J., & Sternberg, R, J. (2025)'
 ---
